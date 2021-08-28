@@ -1,0 +1,15 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[MainWindow]
+DisplayPort-1 eDP DisplayPort-2 Height 1080x1920=936
+DisplayPort-1 eDP DisplayPort-2 Height 1920x1080=1043
+DisplayPort-1 eDP DisplayPort-2 Width 1080x1920=1062
+DisplayPort-1 eDP DisplayPort-2 Width 1920x1080=945
+DisplayPort-1 eDP DisplayPort-2 XPosition 1080x1920=9
+DisplayPort-1 eDP DisplayPort-2 XPosition 1920x1080=1089
+DisplayPort-1 eDP DisplayPort-2 YPosition 1080x1920=956
+DisplayPort-1 eDP DisplayPort-2 YPosition 1920x1080=749
+State=AAAA/wAAAAD9AAAAAAAAA7EAAAPQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
